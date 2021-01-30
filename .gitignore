@@ -1,0 +1,7 @@
+config.py
+fdroid-icon.png
+id
+keystore.jks
+.fdroid.*.txt
+tmp
+srclibs
