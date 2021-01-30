@@ -1,5 +1,12 @@
-License: Unknown
+License: BSD-3-Clause
 WebSite: https://filcnaplo.hu
 SourceCode: https://github.com/filc/naplo
 IssueTracker: https://github.com/filc/naplo/issues
 Summary: Filc Napló
+Categories:
+  - Science & Education
+AuthorName: Filc Naplo
+AuthorEmail: filcnaplo@filcnaplo.hu
+Donate: https://patreon.com/filcnaplo
+Changelog: https://github.com/filc/naplo/releases
+AntiFeatures: NonFreeNet
