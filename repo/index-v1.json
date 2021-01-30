@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1612039060000,
+    "timestamp": 1612039309000,
     "version": 21,
     "name": "Filc naplo F-Droid repo",
     "icon": "filc.png",
@@ -20,7 +20,7 @@
       ],
       "changelog": "https://github.com/filc/naplo/releases",
       "suggestedVersionCode": "56",
-      "description": "<p>\u00dcdv\u00f6z\u00f6l a meg\u00fajult Filc Napl\u00f3, a di\u00e1kok \u00e1ltal k\u00e9sz\u00edtett, ny\u00edlt forr\u00e1sk\u00f3d\u00fa Kr\u00e9ta kliens. Az\u00e9rt \u00edrtuk \u00fajra az appot, hogy t\u00fall\u00e9pj\u00fcnk a Szivacson alapul\u00f3 Filc 1.0 \u00e1lland\u00f3 hib\u00e1in, \u00e9s reag\u00e1ljunk a Kr\u00e9ta \u00faj alkalmaz\u00e1s\u00e1ra. Az \u00faj Filc egy m\u00e9g letisztultabb, felhaszn\u00e1l\u00f3bar\u00e1tabb fel\u00fclettel \u00e9rkezik, a sebess\u00e9g tov\u00e1bb javult, az alkalmaz\u00e1s szem\u00e9lyre szabhat\u00f3bb, mint valaha. Id\u0151vel szeretn\u00e9nk az appot egy teljes \u00e9rt\u00e9k\u0171 iskolai asszisztenss\u00e9 tenni, ami seg\u00edt beosztani az id\u0151t\u00f6ket, \u00e9s hasznos tan\u00e1csokkal l\u00e1t el.</p><p> Github: https://github.com/filc/naplo   Discord: https://filcnaplo.hu/discord   Weboldal: https://filcnaplo.hu/   Instagram: @filcnaplo</p>",
+      "description": "<p>\u00dcdv\u00f6z\u00f6l a meg\u00fajult Filc Napl\u00f3, a di\u00e1kok \u00e1ltal k\u00e9sz\u00edtett, ny\u00edlt forr\u00e1sk\u00f3d\u00fa Kr\u00e9ta kliens. Az\u00e9rt \u00edrtuk \u00fajra az appot, hogy t\u00fall\u00e9pj\u00fcnk a Szivacson alapul\u00f3 Filc 1.0 \u00e1lland\u00f3 hib\u00e1in, \u00e9s reag\u00e1ljunk a Kr\u00e9ta \u00faj alkalmaz\u00e1s\u00e1ra. Az \u00faj Filc egy m\u00e9g letisztultabb, felhaszn\u00e1l\u00f3bar\u00e1tabb fel\u00fclettel \u00e9rkezik, a sebess\u00e9g tov\u00e1bb javult, az alkalmaz\u00e1s szem\u00e9lyre szabhat\u00f3bb, mint valaha. Id\u0151vel szeretn\u00e9nk az appot egy teljes \u00e9rt\u00e9k\u0171 iskolai asszisztenss\u00e9 tenni, ami seg\u00edt beosztani az id\u0151t\u00f6ket, \u00e9s hasznos tan\u00e1csokkal l\u00e1t el.</p><p> Github: https://github.com/filc/naplo\\n   Discord: https://filcnaplo.hu/discord \\n  Weboldal: https://filcnaplo.hu/\\n  Instagram: @filcnaplo</p>",
       "donate": "https://patreon.com/filcnaplo",
       "issueTracker": "https://github.com/filc/naplo/issues",
       "license": "BSD-3-Clause",
