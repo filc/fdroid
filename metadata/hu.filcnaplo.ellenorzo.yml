@@ -3,15 +3,15 @@ WebSite: https://filcnaplo.hu
 SourceCode: https://github.com/filc/naplo
 IssueTracker: https://github.com/filc/naplo/issues
 Summary: Egy nem hivatalos alkalmazás az E-Kréta rendszerhez.
-Description: "
-Üdvözöl a megújult Filc Napló, a diákok által készített, nyílt forráskódú Kréta kliens. Azért írtuk újra az appot, hogy túllépjünk a Szivacson alapuló Filc 1.0 állandó hibáin, és reagáljunk a Kréta új alkalmazására. Az új Filc egy még letisztultabb, felhasználóbarátabb felülettel érkezik, a sebesség tovább javult, az alkalmazás személyre szabhatóbb, mint valaha. Idővel szeretnénk az appot egy teljes értékű iskolai asszisztenssé tenni, ami segít beosztani az időtöket, és hasznos tanácsokkal lát el.
-<br /><br />
-Github: https://github.com/filc/naplo<br />
-Discord: https://filcnaplo.hu/discord<br />
-Weboldal: https://filcnaplo.hu/<br />
-Instagram: @filcnaplo
-."
-
+Description: "Üdvözöl a megújult Filc Napló, a diákok által készített, nyílt forráskódú Kréta kliens. Azért írtuk újra az appot, hogy túllépjünk a Szivacson alapuló Filc 1.0 állandó hibáin, és reagáljunk a Kréta új alkalmazására. Az új Filc egy még letisztultabb, felhasználóbarátabb felülettel érkezik, a sebesség tovább javult, az alkalmazás személyre szabhatóbb, mint valaha. Idővel szeretnénk az appot egy teljes értékű iskolai asszisztenssé tenni, ami segít beosztani az időtöket, és hasznos tanácsokkal lát el.\
+  \n\n
+  Github: https://github.com/filc/naplo
+  \n\n
+  Discord: https://filcnaplo.hu/discord
+  \n\n
+  Weboldal: https://filcnaplo.hu/
+  \n\n
+  Instagram: @filcnaplo"
 Categories:
   - Science & Education
 AuthorName: Filc
