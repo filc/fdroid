@@ -4,20 +4,30 @@
     "-c"
   ],
   "fdroiddata": {
-    "commitId": "3e38da409314c157c9db2c2cf7088243701721d7",
+    "commitId": "f5bf1e5a70561d39964cb51bc7dcaf957cc61e41",
     "isDirty": true,
     "modifiedFiles": [
       "archive/index-v1.jar",
       "archive/index-v1.json",
       "archive/index.jar",
       "archive/index.xml",
+      "repo/filc.apk",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml"
     ],
-    "untrackedFiles": []
+    "untrackedFiles": [
+      "repo/icons-120/hu.filcnaplo.ellenorzo.62.png",
+      "repo/icons-160/hu.filcnaplo.ellenorzo.62.png",
+      "repo/icons-240/hu.filcnaplo.ellenorzo.62.png",
+      "repo/icons-320/hu.filcnaplo.ellenorzo.62.png",
+      "repo/icons-480/hu.filcnaplo.ellenorzo.62.png",
+      "repo/icons-640/hu.filcnaplo.ellenorzo.62.png",
+      "repo/icons/hu.filcnaplo.ellenorzo.62.png",
+      "repo/icons/hu.filcnaplo.ellenorzo.62.xml"
+    ]
   },
-  "startTimestamp": 1613157960000,
+  "startTimestamp": 1614900387000,
   "subcommand": "update"
 }
