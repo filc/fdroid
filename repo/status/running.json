@@ -4,7 +4,7 @@
     "-c"
   ],
   "fdroiddata": {
-    "commitId": "8e0bf26de9caa81b7cd4d1b57ebf916009b511a7",
+    "commitId": "59a8624846f2785257c1e94a7f1e37b9c70a89d4",
     "isDirty": true,
     "modifiedFiles": [
       "archive/index-v1.jar",
@@ -18,6 +18,6 @@
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1615237803000,
+  "startTimestamp": 1615238079000,
   "subcommand": "update"
 }
